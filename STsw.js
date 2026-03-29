@@ -7,7 +7,11 @@ const ASSETS = [
   './STapp.js',
   './STstories.js',
   './STmanifest.json',
-  'https://cdn-icons-png.flaticon.com/512/1067/1067256.png'
+  '1774774989614.png',
+  '1774775001206.png',
+  '1774775014769.png',
+  '1774775038988.png',
+  '1774775051478.png'
 ];
 
 // 1. Install Event: Files ko cache mein save karna
