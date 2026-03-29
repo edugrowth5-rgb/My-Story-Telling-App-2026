@@ -2,7 +2,7 @@ const CACHE_NAME = 'storyteller-v1';
 
 // In files ko browser apne paas save kar lega (Offline ke liye)
 const ASSETS = [
-  './STindex.html',
+  './index.html',
   './STstyle.css',
   './STapp.js',
   './STstories.js',
