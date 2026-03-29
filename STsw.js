@@ -12,7 +12,10 @@ const ASSETS = [
   '1774775014769.png',
   '1774775038988.png',
   '1774775051478.png',
-  '1774782638853.png'
+  '1774782638853.png',
+  '1774786790264.png',
+  '1774786810794.png',
+  '1774786834638.png'
 ];
 
 // 1. Install Event: Files ko cache mein save karna
