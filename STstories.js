@@ -169,7 +169,7 @@ The Goddess dived again and brought up an axe made of shimmering silver. Again, 
 The Goddess was so impressed by Devan’s honesty that she gave him all three axes as a reward. Devan returned home a wealthy man. When a greedy neighbor heard the story, he went to the river and purposefully dropped his axe, hoping for gold. But when the Goddess showed him the golden axe, he lied and claimed it. Disgusted by his greed, the Goddess vanished, leaving the neighbor with no axe at all.
 
 **Moral:** Honesty is the best policy. Greed leads to loss, but truth brings lasting rewards.`,
-    img: "D_honest_woodcutter.png"
+    img: "1774786790264.png"
 },
 
 "The Boy Who Cried Wolf": {
