@@ -155,7 +155,7 @@ He tied the other end of the rope to a massive, ancient oak tree on the shore. T
 Exhausted and drenched, Aryan alerted the village watchman. Soon, the men of the village arrived with tools to secure the area. By morning, the storm had passed, and the bridge stood tall and safe. When the villagers realized that a young boy had saved their only lifeline, they cheered for him. Aryan simply smiled and said, "I only did what needed to be done."
 
 **Moral:** Bravery is not the absence of fear, but the strength to overcome it when others are in need. True heroes are defined by their actions, not their age.`,
-    img: "D_brave_boy_storm.png"
+    img: "1774786810794.png"
 },
 "The Honest Woodcutter": {
     text: `Once upon a time, there lived a poor woodcutter named Devan in a small village near a deep forest. He was known throughout the valley for his immense hard work and, above all, his unwavering honesty. Every day, he would head to the riverbank to chop wood to sell in the market to feed his family.
