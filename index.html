@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>StoryTeller Pro</title>
+    <link rel="stylesheet" href="STstyle.css">
+    <link rel="icon" type="image/png" href="STlogo.png">
+    <link rel="apple-touch-icon" href="STlogo.png">
+    <link rel="manifest" href="STmanifest.json">
+    <meta name="theme-color" content="#ff9a9e">
+</head>
+<body>
+
+    <header class="st-top-header">
+        <div class="st-menu-btn" onclick="toggleSTSidebar()">☰</div>
+        <div class="st-app-logo">✨ StoryTeller <span>Pro</span> ✨</div>
+        <div class="st-status-bubble" id="statusIndicator">System Ready</div>
+    </header>
+
+    <div class="st-main-wrapper">
+        <aside class="st-sidebar-left" id="leftSidebar">
+            <div class="st-sidebar-label">MY STORIES</div>
+            <div id="topicsContainer">
+                </div>
+        </aside>
+
+        <main class="st-content-view">
+            <div id="displayWrapper" class="hidden">
+                <h1 id="topicHeading" class="st-story-title"></h1>
+                <div class="st-image-frame">
+                    <img id="topicImg" src="" alt="Story Visual">
+                </div>
+                <div class="st-text-frame">
+                    <p id="topicDescription"></p>
+                </div>
+            </div>
+            
+            <div id="welcomeMessage" class="st-welcome">
+                <h2>Ready for Magic?</h2>
+                <p>Pick a Story from the left menu. Let's start the adventure!</p>
+            </div>
+        </main>
+
+        <aside class="st-sidebar-right">
+    <div class="st-widget">
+        <h3>Story Controls</h3>
+        <button onclick="killSTSpeech()" class="st-btn st-btn-danger">Stop Story ⏹️</button>
+    </div>
+
+    <div class="st-widget st-guide-box">
+        <h3>Kaise Use Karein? ✨</h3>
+        <ul class="st-guide-list">
+            <li>👉 Left side se kahani chunein.</li>
+            <li>📖 Kahani apne aap shuru hogi.</li>
+            <li>👂 Dhyan se suniye aur maza lijiye!</li>
+            <li>🛑 Rukne ke liye Stop button dabayein.</li>
+        </ul>
+    </div>
+
+    <div class="st-widget st-info-box">
+        <h3>App Status</h3>
+        <p id="voiceTypeDisplay">Auto-detecting Voice...</p>
+    </div>
+</aside>
+
+    </div>
+
+    <script src="STstories.js"></script>
+    <script src="STapp.js"></script>
+    <script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('STsw.js')
+        .then(reg => console.log('StoryTeller Service Worker Registered!'))
+        .catch(err => console.log('Service Worker Error', err));
+    });
+  }
+</script>
+
+</body>
+</html>
