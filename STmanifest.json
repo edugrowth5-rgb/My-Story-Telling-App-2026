@@ -1,0 +1,17 @@
+{
+  "short_name": "StoryTeller",
+  "name": "StoryTeller Pro Magical App",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1067/1067256.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "STindex.html",
+  "background_color": "#ffecd2",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#ff9a9e"
+}
