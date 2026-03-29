@@ -7,6 +7,7 @@ const ASSETS = [
   './STapp.js',
   './STstories.js',
   './STmanifest.json',
+  '1774787973373.png',
   '1774774989614.png',
   '1774775001206.png',
   '1774775014769.png',
@@ -15,8 +16,7 @@ const ASSETS = [
   '1774782638853.png',
   '1774786790264.png',
   '1774786810794.png',
-  '1774786834638.png',
-  '1774787973373.png'
+  '1774786834638.png'
 ];
 
 // 1. Install Event: Files ko cache mein save karna
