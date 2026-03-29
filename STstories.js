@@ -204,7 +204,7 @@ But the evil sorcerer returned, disguised as a merchant. He tricked the Princess
 Aladdin didn't give up. Using his wit and courage, he tracked down the sorcerer. He slipped a sleeping potion into the sorcerer's drink and, while he slept, Aladdin reclaimed the lamp. With one final rub, the Genie returned the palace and the Princess back to their kingdom. Aladdin lived the rest of his life as a wise and kind ruler, never forgetting that true magic lies in a person's character, not just in a lamp.
 
 **Moral:** Greed leads to downfall, but courage and a kind heart can overcome even the darkest magic.`,
-    img: "D_magic_lamp_genie.png"
+    img: "1774786834638.png"
 },
 "The Golden Touch": {
     text: `Long ago, there lived a king named Midas who ruled over the land of Phrygia. Although he was incredibly wealthy and lived in a palace of marble, he was never satisfied. He spent his days in his treasure vault, counting his gold and wishing he had even more. He loved gold more than anything in the world, except perhaps for his young daughter, Marigold.
