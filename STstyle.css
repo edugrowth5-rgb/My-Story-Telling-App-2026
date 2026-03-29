@@ -1,0 +1,82 @@
+/* StoryTeller Pro - Magical Design */
+:root {
+    --st-primary: #ff9a9e;
+    --st-secondary: #ffecd2;
+    --st-dark: #2c3e50;
+    --st-text: #4a4a4a;
+    --st-success: #2ecc71;
+    --st-danger: #e74c3c;
+    --st-bubble: rgba(255, 255, 255, 0.9);
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Arial, sans-serif; }
+
+body { background: #fdfbfb; height: 100vh; display: flex; flex-direction: column; overflow: hidden; color: var(--st-text); }
+
+/* MAGICAL TOP BAR */
+.st-top-header { height: 70px; background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%); color: var(--st-dark); display: flex; align-items: center; padding: 0 25px; justify-content: space-between; box-shadow: 0 4px 10px rgba(0,0,0,0.1); z-index: 1000; }
+.st-menu-btn { font-size: 30px; cursor: pointer; padding: 10px; color: var(--st-dark); transition: 0.2s; }
+.st-menu-btn:hover { color: white; transform: rotate(90deg); }
+.st-app-logo { font-size: 26px; font-weight: bold; font-family: 'Comic Sans MS', cursive, sans-serif; text-shadow: 2px 2px 4px rgba(0,0,0,0.1); }
+.st-app-logo span { color: #fdfbfb; }
+.st-status-bubble { font-size: 13px; background: var(--st-bubble); padding: 5px 15px; border-radius: 20px; font-weight: bold; color: var(--st-dark); }
+
+/* MAIN WRAPPER LAYOUT */
+.st-main-wrapper { display: flex; flex: 1; overflow: hidden; padding-top: 10px; }
+
+/* LEFT SIDEBAR (The Library) */
+.st-sidebar-left { width: 280px; background: #e0f7fa; color: var(--st-dark); transition: 0.3s; overflow-y: auto; padding: 25px; border-radius: 0 20px 0 0; box-shadow: 4px 0 10px rgba(0,0,0,0.05); }
+.st-sidebar-left.collapsed { margin-left: -280px; }
+.st-sidebar-label { font-size: 14px; color: var(--st-dark); letter-spacing: 2px; margin-bottom: 20px; font-weight: bold; border-bottom: 2px solid #b2ebf2; padding-bottom: 5px; }
+
+/* Category Style */
+.st-category-name { color: #00838f; margin: 20px 0 8px; font-weight: bold; font-size: 16px; font-family: 'Comic Sans MS', cursive; }
+/* Story Button Style */
+.st-topic-item { display: block; padding: 12px 18px; background: white; margin-bottom: 8px; border-radius: 12px; cursor: pointer; font-size: 15px; transition: 0.3s; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+.st-topic-item:hover { background: #ffecd2; transform: translateX(8px); box-shadow: 0 4px 8px rgba(0,0,0,0.1); color: #c0392b; }
+
+/* CENTER CONTENT (The Story Book) */
+.st-content-view { flex: 1; padding: 40px; overflow-y: auto; background: white; border-radius: 20px 20px 0 0; box-shadow: 0 -4px 10px rgba(0,0,0,0.05); margin: 0 10px; }
+.st-story-title { text-align: center; color: #c0392b; margin-bottom: 25px; font-family: 'Comic Sans MS', cursive; font-size: 32px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1); }
+.st-image-frame { text-align: center; margin-bottom: 30px; }
+#topicImg { max-width: 90%; max-height: 350px; border-radius: 25px; box-shadow: 0 10px 20px rgba(0,0,0,0.1); border: 10px solid #fdfbfb; }
+.st-text-frame { line-height: 2; color: #444; font-size: 20px; text-align: left; padding: 0 10px; font-family: 'Georgia', serif; }
+
+/* RIGHT SIDEBAR (The Controls) */
+.st-sidebar-right { width: 250px; background: #fff3e0; border-left: 2px solid #ffe0b2; padding: 25px; border-radius: 20px 0 0 0; }
+.st-widget { background: white; padding: 20px; border-radius: 20px; margin-bottom: 25px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); text-align: center; }
+.st-widget h3 { margin-bottom: 15px; font-size: 18px; color: var(--st-dark); font-family: 'Comic Sans MS', cursive; }
+/* Button Style */
+.st-btn { width: 100%; padding: 15px; border: none; border-radius: 15px; cursor: pointer; font-weight: bold; font-size: 16px; margin-bottom: 10px; transition: 0.2s; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+.st-btn-danger { background: var(--st-danger); color: white; }
+.st-btn:active { transform: scale(0.95); box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+.st-info-box { font-size: 13px; color: #7f8c8d; line-height: 1.6; }
+
+/* MISC */
+.hidden { display: none; }
+.st-welcome { text-align: center; margin-top: 50px; color: #7f8c8d; font-family: 'Comic Sans MS', cursive; }
+
+/* Help Guide Box */
+.st-guide-box {
+    background: #e8f5e9; /* Light Green for kids */
+    border: 2px dashed #81c784;
+}
+
+.st-guide-list {
+    text-align: left;
+    list-style: none;
+    font-size: 14px;
+    line-height: 1.8;
+    color: #2e7d32;
+}
+
+.st-guide-list li {
+    margin-bottom: 5px;
+}
+
+/* Status Text Animation */
+#voiceTypeDisplay {
+    font-weight: bold;
+    color: #4e54c8;
+}
+
