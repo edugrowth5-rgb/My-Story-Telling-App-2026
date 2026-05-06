@@ -179,7 +179,7 @@ Later that evening, as the sun began to set, a real, hungry wolf crept out from 
 The villagers heard his cries, but they stayed in their homes. "He’s just trying to trick us again," they said to one another. "He won't catch us a third time." No one came to help. The wolf killed many sheep and disappeared back into the forest. Lucas sat in the tree, crying and shivering, realizing that by lying, he had lost the trust of the very people he needed most.
 
 Moral  Nobody believes a liar, even when he is telling the truth. Trust is easy to break but very hard to rebuild.`,
-    img: "D_boy_cried_wolf.png"
+    img: "wolf.png"
 }
    },
     "Adventure Tales": {
