@@ -15,7 +15,7 @@ const stStoryLibrary = {
 
 चूहे ने अपने छोटे लेकिन बहुत तेज़ और पैने दाँतों से जाल की रस्सियों को कुतरना शुरू कर दिया। धीरे-धीरे उसने जाल की मुख्य रस्सियाँ काट दीं और शेर आज़ाद हो गया। शेर को अपनी गलती का अहसास हुआ। उसने छोटे से चूहे का धन्यवाद किया और समझ गया कि कोई भी छोटा नहीं होता। उस दिन से शेर और चूहा गहरे दोस्त बन गए।
 
-**सीख (Moral):** उपकार कभी व्यर्थ नहीं जाता। किसी को भी उसके आकार या कद से कम नहीं आंकना चाहिए; एक छोटा सा मित्र भी समय आने पर बहुत बड़ा सहारा बन सकता है।`,
+सीख  उपकार कभी व्यर्थ नहीं जाता। किसी को भी उसके आकार या कद से कम नहीं आंकना चाहिए; एक छोटा सा मित्र भी समय आने पर बहुत बड़ा सहारा बन सकता है।`,
     img: "1774787973373.png"
 },
         "लोमड़ी और अंगूर": {
@@ -33,8 +33,8 @@ const stStoryLibrary = {
 
 वह अपना सिर ऊँचा करके वहाँ से चली गई, जबकि असलियत यह थी कि वह अपनी नाकामी को स्वीकार नहीं करना चाहती थी।
 
-**सीख (Moral):** जो चीज़ हम पा नहीं सकते, अक्सर हम उसमें कमियाँ निकालने लगते हैं। अपनी असफलता को स्वीकार करने के बजाय उसे 'खराब' कहना आसान होता है।`,
-    img: "fox.png"
+सीख  जो चीज़ हम पा नहीं सकते, अक्सर हम उसमें कमियाँ निकालने लगते हैं। अपनी असफलता को स्वीकार करने के बजाय उसे 'खराब' कहना आसान होता है।`,
+    img: "fox.jpg"
 },
 "लालची कुत्ता": {
     text: `एक समय की बात है, एक गाँव में एक कुत्ता रहता था। वह दिन भर खाने की तलाश में इधर-उधर भटकता रहता था। एक दिन उसे बहुत तेज़ भूख लगी थी। किस्मत से उसे एक कसाई की दुकान के बाहर मांस का एक बड़ा और रसदार टुकड़ा मिल गया।
@@ -49,8 +49,8 @@ const stStoryLibrary = {
 
 अब कुत्ते के पास कुछ नहीं बचा था। वह अपनी मूर्खता और लालच के कारण भूखा रह गया। उसे समझ आ गया कि जो उसके पास था, वह भी उसने खो दिया।
 
-**सीख (Moral):** लालच बुरी बला है। जो हमारे पास है, हमें उसी में संतोष करना चाहिए, वरना लालच के चक्कर में हम अपना सब कुछ खो सकते हैं।`,
-    img: "dog.png"
+सीख  लालच बुरी बला है। जो हमारे पास है, हमें उसी में संतोष करना चाहिए, वरना लालच के चक्कर में हम अपना सब कुछ खो सकते हैं।`,
+    img: "dog.jpg"
 },
 "कछुआ और खरगोश": {
     text: `एक बहुत ही सुंदर जंगल में एक खरगोश रहता था, जिसे अपनी तेज़ दौड़ पर बहुत घमंड था। वह अक्सर दूसरे जानवरों का मज़ाक उड़ाता था कि वे कितने धीरे चलते हैं। एक दिन, उसने कछुए को चुनौती देते हुए कहा, "तुम तो बहुत ही धीमे हो! क्या तुम मेरे साथ दौड़ लगाने की हिम्मत करोगे?"
@@ -65,7 +65,7 @@ const stStoryLibrary = {
 
 लेकिन जब वह वहाँ पहुँचा, तो उसने देखा कि कछुआ पहले ही जीत चुका था और सब जानवर उसकी जीत का जश्न मना रहे थे। खरगोश का सिर शर्म से झुक गया।
 
-**सीख (Moral):** धीरे और निरंतर चलने वाला ही अंत में जीतता है। अति-आत्मविश्वास और घमंड हमेशा हार का कारण बनते हैं।`,
+सीख  धीरे और निरंतर चलने वाला ही अंत में जीतता है। अति-आत्मविश्वास और घमंड हमेशा हार का कारण बनते हैं।`,
     img: "1774775014769.png"
 },
 "प्यासा कौआ": {
@@ -81,7 +81,7 @@ const stStoryLibrary = {
 
 आखिरकार, कौए की मेहनत रंग लाई। पानी ऊपर आ गया और उसने जी भरकर पानी पिया। उसकी जान में जान आई और वह खुशी-खुशी अपनी मंज़िल की ओर उड़ गया।
 
-**सीख (Moral):** जहाँ चाह, वहाँ राह। बुद्धि और धैर्य के साथ कठिन से कठिन परिस्थिति का समाधान निकाला जा सकता है।`,
+सीख  जहाँ चाह, वहाँ राह। बुद्धि और धैर्य के साथ कठिन से कठिन परिस्थिति का समाधान निकाला जा सकता है।`,
     img: "1774774989614.png"
 },
 "बंदर और मगरमच्छ": {
@@ -97,8 +97,8 @@ const stStoryLibrary = {
 
 मूर्ख मगरमच्छ वापस पेड़ की ओर मुड़ गया। जैसे ही वे किनारे पर पहुँचे, बंदर फुर्ती से कूदकर पेड़ पर चढ़ गया और बोला, "मूर्ख मगरमच्छ! क्या कभी कोई अपना कलेजा शरीर से अलग रख सकता है? तुमने हमारी दोस्ती को धोखा दिया है, अब यहाँ से चले जाओ।"
 
-**सीख (Moral):** संकट के समय घबराने के बजाय अपनी बुद्धि और चतुराई से काम लेना चाहिए। विश्वासघात करने वाले दोस्त पर कभी भरोसा नहीं करना चाहिए।`,
-    img: "monkey.png"
+सीख  संकट के समय घबराने के बजाय अपनी बुद्धि और चतुराई से काम लेना चाहिए। विश्वासघात करने वाले दोस्त पर कभी भरोसा नहीं करना चाहिए।`,
+    img: "monkey.jpg"
 },
 "लालच बुरी बला है": {
     text: `एक छोटे से गाँव में एक गरीब किसान अपनी पत्नी के साथ रहता था। वे बड़ी मुश्किल से अपना गुज़ारा करते थे। एक दिन किसान को बाज़ार में एक अनोखी मुर्गी मिली। वह उसे घर ले आया।
@@ -113,8 +113,8 @@ const stStoryLibrary = {
 
 लेकिन अफ़सोस! मुर्गी के पेट में एक भी अंडा नहीं था। वह तो आम मुर्गियों जैसी ही थी। किसान की इस मूर्खता की वजह से वह अनोखी मुर्गी मर गई। अब उसे रोज़ मिलने वाला सोने का अंडा भी बंद हो गया। किसान फूट-फूट कर रोने लगा, लेकिन अब पछताने से क्या होता? उसने अपने लालच की वजह से अपनी खुशहाली का ज़रिया हमेशा के लिए खो दिया था।
 
-**सीख (Moral):** लालच इंसान की बुद्धि को भ्रष्ट कर देता है। जो हमारे पास है, उसमें संतोष करना चाहिए। रातों-रात अमीर बनने की कोशिश में हम अक्सर वह भी खो देते हैं जो हमारे पास होता है।`,
-    img: "hen.png"
+सीख  लालच इंसान की बुद्धि को भ्रष्ट कर देता है। जो हमारे पास है, उसमें संतोष करना चाहिए। रातों-रात अमीर बनने की कोशिश में हम अक्सर वह भी खो देते हैं जो हमारे पास होता है।`,
+    img: "hen.jpg"
 },
 "एकता में बल": {
     text: `एक पुराने और विशाल बरगद के पेड़ पर कबूतरों का एक बड़ा झुंड रहता था। उनका राजा एक बहुत ही बुद्धिमान और अनुभवी बूढ़ा कबूतर था। वे रोज़ सुबह भोजन की तलाश में दूर-दूर तक उड़ते और शाम को वापस लौट आते थे।
@@ -131,8 +131,8 @@ const stStoryLibrary = {
 
 वे उड़ते हुए अपने मित्र चूहे के पास पहुँचे। चूहे ने अपने तेज़ दाँतों से जाल को काट दिया और सभी कबूतर आज़ाद हो गए। उन्होंने अपने राजा का शुक्रिया अदा किया और समझ गए कि अकेले जो काम नामुमकिन था, उसे एकता से मुमकिन बनाया जा सकता है।
 
-**सीख (Moral):** एकता में बहुत बड़ी शक्ति होती है। जब हम मिलकर काम करते हैं, तो बड़ी से बड़ी मुसीबत को भी हरा सकते हैं।`,
-    img: "net.png"
+सीख  एकता में बहुत बड़ी शक्ति होती है। जब हम मिलकर काम करते हैं, तो बड़ी से बड़ी मुसीबत को भी हरा सकते हैं।`,
+    img: "net.jpg"
 }
     },
     "English Tales": {
@@ -149,7 +149,7 @@ He tied the other end of the rope to a massive, ancient oak tree on the shore. T
 
 Exhausted and drenched, Aryan alerted the village watchman. Soon, the men of the village arrived with tools to secure the area. By morning, the storm had passed, and the bridge stood tall and safe. When the villagers realized that a young boy had saved their only lifeline, they cheered for him. Aryan simply smiled and said, "I only did what needed to be done."
 
-**Moral:** Bravery is not the absence of fear, but the strength to overcome it when others are in need. True heroes are defined by their actions, not their age.`,
+Moral  Bravery is not the absence of fear, but the strength to overcome it when others are in need. True heroes are defined by their actions, not their age.`,
     img: "1774786810794.png"
 },
 "The Honest Woodcutter": {
@@ -163,7 +163,7 @@ The Goddess dived again and brought up an axe made of shimmering silver. Again, 
 
 The Goddess was so impressed by Devan’s honesty that she gave him all three axes as a reward. Devan returned home a wealthy man. When a greedy neighbor heard the story, he went to the river and purposefully dropped his axe, hoping for gold. But when the Goddess showed him the golden axe, he lied and claimed it. Disgusted by his greed, the Goddess vanished, leaving the neighbor with no axe at all.
 
-**Moral:** Honesty is the best policy. Greed leads to loss, but truth brings lasting rewards.`,
+Moral  Honesty is the best policy. Greed leads to loss, but truth brings lasting rewards.`,
     img: "1774786790264.png"
 },
 
@@ -178,7 +178,7 @@ Later that evening, as the sun began to set, a real, hungry wolf crept out from 
 
 The villagers heard his cries, but they stayed in their homes. "He’s just trying to trick us again," they said to one another. "He won't catch us a third time." No one came to help. The wolf killed many sheep and disappeared back into the forest. Lucas sat in the tree, crying and shivering, realizing that by lying, he had lost the trust of the very people he needed most.
 
-**Moral:** Nobody believes a liar, even when he is telling the truth. Trust is easy to break but very hard to rebuild.`,
+Moral  Nobody believes a liar, even when he is telling the truth. Trust is easy to break but very hard to rebuild.`,
     img: "D_boy_cried_wolf.png"
 }
    },
@@ -198,7 +198,7 @@ But the evil sorcerer returned, disguised as a merchant. He tricked the Princess
 
 Aladdin didn't give up. Using his wit and courage, he tracked down the sorcerer. He slipped a sleeping potion into the sorcerer's drink and, while he slept, Aladdin reclaimed the lamp. With one final rub, the Genie returned the palace and the Princess back to their kingdom. Aladdin lived the rest of his life as a wise and kind ruler, never forgetting that true magic lies in a person's character, not just in a lamp.
 
-**Moral:** Greed leads to downfall, but courage and a kind heart can overcome even the darkest magic.`,
+Moral  Greed leads to downfall, but courage and a kind heart can overcome even the darkest magic.`,
     img: "1774786834638.png"
 },
 "The Golden Touch": {
@@ -210,8 +210,8 @@ The next morning, Midas woke up and touched his bedpost—it instantly turned to
 
 Seeing his distress, his daughter Marigold ran to him and threw her arms around him. Before he could cry out, she turned into a cold, lifeless golden statue. Midas wept in agony. He realized that his greed had cost him everything he truly loved. He prayed to the stranger to take the gift back. The stranger told him to bathe in the River Pactolus. Midas ran to the river, and as he dipped his hands in, the golden power left him. He rushed home and sprinkled the river water over Marigold, bringing her back to life. From that day on, Midas hated the sight of gold and lived a simple, happy life.
 
-**Moral:** Greed for wealth can blind us to the things that truly matter. Contentment is the greatest treasure.`,
-    img: "light.png"
+Moral  Greed for wealth can blind us to the things that truly matter. Contentment is the greatest treasure.`,
+    img: "light.jpg"
 },
 
 "The Little Match Girl": {
@@ -225,8 +225,8 @@ She lit a second match. This time, the wall became transparent like a veil. She 
 
 Finally, she struck another match, and in the brightness, she saw her grandmother, the only person who had ever been kind to her. "Oh, Grandmother!" she cried. "Take me with you!" She quickly struck the rest of the matches in the bundle to keep the vision alive. Her grandmother took the little girl in her arms, and they both flew upward in brightness and joy, far above the earth, where there was no more cold, hunger, or fear. The next morning, the townspeople found the little girl with a smile on her face, but her spirit was gone to a much warmer place.
 
-**Moral:** Compassion and kindness are the greatest gifts we can give. A small act of help can change a life of suffering.`,
-    img: "match.png"
+Moral  Compassion and kindness are the greatest gifts we can give. A small act of help can change a life of suffering.`,
+    img: "match.jpg"
 }
     },
     "पंचतंत्र की कहानियां": {
@@ -305,7 +305,7 @@ Finally, she struck another match, and in the brightness, she saw her grandmothe
 इसके बाद छत्तीस वर्ष तक पांडवों ने राज्य किया और फिर अपने पोते परीक्षित को राज्य देकर द्रौपदी के साथ तपस्या करने हिमालय चले गए।
 
 संक्षेप में यही महाभारत की कथा है।`,
-            img: "Adhyay1.png" // आप अपनी इमेज का नाम यहाँ बदल सकते हैं
+            img: "Adhyay1.png" 
         },
 "अध्याय 2: देवव्रत": {
     text: `गंगा एक सुंदर युवती का रूप धारण किए नदी के तट पर खड़ी थी, उनके सौंदर्य और नवयौवन ने राजा शांतनु को मोह लिया था।
@@ -323,7 +323,7 @@ Finally, she struck another match, and in the brightness, she saw her grandmothe
 एक दिन राजा शिकार खेलते-खेलते गंगा के तट पर चले गए, तो देखा किनारे पर खड़ा एक सुंदर और गठीला युवक गंगा की बहती हुई धारा पर बाण चला रहा था। बाणों की बौछार से गंगा की प्रचंड धारा एकदम रुकी हुई थी। यह दृश्य देखकर शांतनु दंग रह गए।
 
 इतने में ही राजा के सामने स्वयं गंगा आकर उपस्थित हो गई। गंगा ने युवक को अपने पास बुलाया और राजा से बोली— "राजन्, पहचाना मुझे और इस युवक को? यही आपका और मेरा आठवाँ पुत्र देवव्रत है। महर्षि वशिष्ठ ने इसे शिक्षा दी है। शास्र-ज्ञान मे शुक्राचार्य और रण-कौशल में परशुराम ही इसका मुकाबला कर सकते हैं। यह जितना कुशल योद्धा है, उतना ही चतुर राजनीतिज्ञ भी है। आपका पुत्र, मैं आपको सौंप रही हूँ। अब ले जाइए इसे अपने साथ। गंगा ने देवव्रत का माथा चूमा और आशीर्वाद देकर राजा के साथ उसे विदा कर दिया।"`,
-            img: "Adhyay2.png" // आप अपनी इमेज का नाम यहाँ बदल सकते हैं
+            img: "Adhyay2.png" 
         },
         "अध्याय 3: भीष्म-प्रतिज्ञा": {
     text: `तेजस्वी पुत्र को पाकर राजा प्रफुल्लित मन से नगर को लौटे और देवव्रत राजकुमार के पद को सुशोभित करने लगे।
@@ -351,7 +351,7 @@ Finally, she struck another match, and in the brightness, she saw her grandmothe
 सत्यवती से शांतनु के दो पुत्र हुए-चित्रांगद और विचित्रवीर्य। शांतनु के देहावसान पर चित्रांगद हस्तिनापुर के सिंहासन पर बैठे और उनके युद्ध में मारे जाने पर विचित्रवीर्य। विचित्रवीर्य की दो रानियाँ थीं-अंबिका और अंबालिका। अंबिका के पुत्र थे धृतराष्ट्र और अंबालिका के पांडु। धृतराष्ट्र के पुत्र कौरव कहलाए और पांडु के पांडव।
 
 महात्मा भीष्म, शांतनु के बाद से कुरुक्षेत्र-युद्ध का अंत होने तक उस विशाल राजवंश के सामान्य कुलनायक और पूज्य बने रहे।`,
-            img: "Adhyay3.png" // आप अपनी इमेज का नाम यहाँ बदल सकते हैं
+            img: "Adhyay3.png" 
 
     },
     "अध्याय 4: अंबा और भीष्म": {
@@ -387,8 +387,8 @@ Finally, she struck another match, and in the brightness, she saw her grandmothe
 
 पर अंबा ऐसी बातों से कब विचलित होनेवाली थी? उसने वन में जाकर फिर तपस्या शुरू की और तपोबल से स्त्री-रूप छोड़कर पुरुष बन गई और उसने अपना नाम शिखंडी रख लिया।
 
-जब कौरवों और पांडवों के बीच कुरुक्षेत्र के मैदान में युद्ध हुआ, तो भीष्म के विरुद्ध लड़ते समय शिखंडी रथ के आगे बैठा था और अर्जुन ठीक उसके पीछे। ज्ञानी भीष्म को यह बात मालूम थी कि अंबा ही शिखंडी का रूप धारण किए हुए है। इसलिए उन्होंने उस पर बाण चलाना अपनी वीरोचित प्रतिष्ठा के विरुद्ध समझा। शिखंडी को आगे करके अर्जुन ने भीष्म पितामह पर हमला किया और अंत में उन पर विजय प्राप्त की। जब भीष्म आहत होकर पृथ्वी पर गिरे, तब जाकर अंबा का क्रोध शांत हुआ।"`,
-           img: "Adhyay4.png" // आप अपनी इमेज का नाम यहाँ बदल सकते हैं
+जब कौरवों और पांडवों के बीच कुरुक्षेत्र के मैदान में युद्ध हुआ, तो भीष्म के विरुद्ध लड़ते समय शिखंडी रथ के आगे बैठा था और अर्जुन ठीक उसके पीछे। ज्ञानी भीष्म को यह बात मालूम थी कि अंबा ही शिखंडी का रूप धारण किए हुए है। इसलिए उन्होंने उस पर बाण चलाना अपनी वीरोचित प्रतिष्ठा के विरुद्ध समझा। शिखंडी को आगे करके अर्जुन ने भीष्म पितामह पर हमला किया और अंत में उन पर विजय प्राप्त की। जब भीष्म आहत होकर पृथ्वी पर गिरे, तब जाकर अंबा का क्रोध शांत हुआ।`,
+           img: "Adhyay4.png" 
 }
 }    
 };
