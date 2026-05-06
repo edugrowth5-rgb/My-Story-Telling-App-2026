@@ -31,7 +31,8 @@ const ASSETS = [
   'light.jpg',
   'match.jpg',
   'monkey.jpg',
-  'net.jpg'
+  'net.jpg',
+  'wolf.png'
 ];
 
 // 1. Install Event: Files ko cache mein save karna
