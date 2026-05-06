@@ -25,13 +25,13 @@ const ASSETS = [
   'Adhyay2.png',
   'Adhyay3.png',
   'Adhyay4.png',
-  'dog.png',
-  'fox.png',
-  'hen.png',
-  'light.png',
-  'match.png',
-  'monkey.png',
-  'net.png'
+  'dog.jpg',
+  'fox.jpg',
+  'hen.jpg',
+  'light.jpg',
+  'match.jpg',
+  'monkey.jpg',
+  'net.jpg'
 ];
 
 // 1. Install Event: Files ko cache mein save karna
