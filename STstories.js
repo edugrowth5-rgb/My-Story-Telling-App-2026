@@ -34,7 +34,7 @@ const stStoryLibrary = {
 वह अपना सिर ऊँचा करके वहाँ से चली गई, जबकि असलियत यह थी कि वह अपनी नाकामी को स्वीकार नहीं करना चाहती थी।
 
 **सीख (Moral):** जो चीज़ हम पा नहीं सकते, अक्सर हम उसमें कमियाँ निकालने लगते हैं। अपनी असफलता को स्वीकार करने के बजाय उसे 'खराब' कहना आसान होता है।`,
-    img: "D_fox_grapes.png"
+    img: "fox.png"
 },
 "लालची कुत्ता": {
     text: `एक समय की बात है, एक गाँव में एक कुत्ता रहता था। वह दिन भर खाने की तलाश में इधर-उधर भटकता रहता था। एक दिन उसे बहुत तेज़ भूख लगी थी। किस्मत से उसे एक कसाई की दुकान के बाहर मांस का एक बड़ा और रसदार टुकड़ा मिल गया।
@@ -50,7 +50,7 @@ const stStoryLibrary = {
 अब कुत्ते के पास कुछ नहीं बचा था। वह अपनी मूर्खता और लालच के कारण भूखा रह गया। उसे समझ आ गया कि जो उसके पास था, वह भी उसने खो दिया।
 
 **सीख (Moral):** लालच बुरी बला है। जो हमारे पास है, हमें उसी में संतोष करना चाहिए, वरना लालच के चक्कर में हम अपना सब कुछ खो सकते हैं।`,
-    img: "D_greedy_dog.png"
+    img: "dog.png"
 },
 "कछुआ और खरगोश": {
     text: `एक बहुत ही सुंदर जंगल में एक खरगोश रहता था, जिसे अपनी तेज़ दौड़ पर बहुत घमंड था। वह अक्सर दूसरे जानवरों का मज़ाक उड़ाता था कि वे कितने धीरे चलते हैं। एक दिन, उसने कछुए को चुनौती देते हुए कहा, "तुम तो बहुत ही धीमे हो! क्या तुम मेरे साथ दौड़ लगाने की हिम्मत करोगे?"
@@ -98,7 +98,7 @@ const stStoryLibrary = {
 मूर्ख मगरमच्छ वापस पेड़ की ओर मुड़ गया। जैसे ही वे किनारे पर पहुँचे, बंदर फुर्ती से कूदकर पेड़ पर चढ़ गया और बोला, "मूर्ख मगरमच्छ! क्या कभी कोई अपना कलेजा शरीर से अलग रख सकता है? तुमने हमारी दोस्ती को धोखा दिया है, अब यहाँ से चले जाओ।"
 
 **सीख (Moral):** संकट के समय घबराने के बजाय अपनी बुद्धि और चतुराई से काम लेना चाहिए। विश्वासघात करने वाले दोस्त पर कभी भरोसा नहीं करना चाहिए।`,
-    img: "D_monkey_crocodile.png"
+    img: "monkey.png"
 },
 "लालच बुरी बला है": {
     text: `एक छोटे से गाँव में एक गरीब किसान अपनी पत्नी के साथ रहता था। वे बड़ी मुश्किल से अपना गुज़ारा करते थे। एक दिन किसान को बाज़ार में एक अनोखी मुर्गी मिली। वह उसे घर ले आया।
@@ -114,7 +114,7 @@ const stStoryLibrary = {
 लेकिन अफ़सोस! मुर्गी के पेट में एक भी अंडा नहीं था। वह तो आम मुर्गियों जैसी ही थी। किसान की इस मूर्खता की वजह से वह अनोखी मुर्गी मर गई। अब उसे रोज़ मिलने वाला सोने का अंडा भी बंद हो गया। किसान फूट-फूट कर रोने लगा, लेकिन अब पछताने से क्या होता? उसने अपने लालच की वजह से अपनी खुशहाली का ज़रिया हमेशा के लिए खो दिया था।
 
 **सीख (Moral):** लालच इंसान की बुद्धि को भ्रष्ट कर देता है। जो हमारे पास है, उसमें संतोष करना चाहिए। रातों-रात अमीर बनने की कोशिश में हम अक्सर वह भी खो देते हैं जो हमारे पास होता है।`,
-    img: "D_golden_goose_greed.png"
+    img: "hen.png"
 },
 "एकता में बल": {
     text: `एक पुराने और विशाल बरगद के पेड़ पर कबूतरों का एक बड़ा झुंड रहता था। उनका राजा एक बहुत ही बुद्धिमान और अनुभवी बूढ़ा कबूतर था। वे रोज़ सुबह भोजन की तलाश में दूर-दूर तक उड़ते और शाम को वापस लौट आते थे।
@@ -132,7 +132,7 @@ const stStoryLibrary = {
 वे उड़ते हुए अपने मित्र चूहे के पास पहुँचे। चूहे ने अपने तेज़ दाँतों से जाल को काट दिया और सभी कबूतर आज़ाद हो गए। उन्होंने अपने राजा का शुक्रिया अदा किया और समझ गए कि अकेले जो काम नामुमकिन था, उसे एकता से मुमकिन बनाया जा सकता है।
 
 **सीख (Moral):** एकता में बहुत बड़ी शक्ति होती है। जब हम मिलकर काम करते हैं, तो बड़ी से बड़ी मुसीबत को भी हरा सकते हैं।`,
-    img: "D_unity_pigeons.png"
+    img: "net.png"
 }
     },
     "English Tales": {
@@ -211,7 +211,7 @@ The next morning, Midas woke up and touched his bedpost—it instantly turned to
 Seeing his distress, his daughter Marigold ran to him and threw her arms around him. Before he could cry out, she turned into a cold, lifeless golden statue. Midas wept in agony. He realized that his greed had cost him everything he truly loved. He prayed to the stranger to take the gift back. The stranger told him to bathe in the River Pactolus. Midas ran to the river, and as he dipped his hands in, the golden power left him. He rushed home and sprinkled the river water over Marigold, bringing her back to life. From that day on, Midas hated the sight of gold and lived a simple, happy life.
 
 **Moral:** Greed for wealth can blind us to the things that truly matter. Contentment is the greatest treasure.`,
-    img: "D_golden_touch.png"
+    img: "light.png"
 },
 
 "The Little Match Girl": {
@@ -226,7 +226,7 @@ She lit a second match. This time, the wall became transparent like a veil. She 
 Finally, she struck another match, and in the brightness, she saw her grandmother, the only person who had ever been kind to her. "Oh, Grandmother!" she cried. "Take me with you!" She quickly struck the rest of the matches in the bundle to keep the vision alive. Her grandmother took the little girl in her arms, and they both flew upward in brightness and joy, far above the earth, where there was no more cold, hunger, or fear. The next morning, the townspeople found the little girl with a smile on her face, but her spirit was gone to a much warmer place.
 
 **Moral:** Compassion and kindness are the greatest gifts we can give. A small act of help can change a life of suffering.`,
-    img: "D_little_match_girl.png"
+    img: "match.png"
 }
     },
     "पंचतंत्र की कहानियां": {
