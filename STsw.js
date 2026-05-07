@@ -25,6 +25,7 @@ const ASSETS = [
   'Adhyay2.png',
   'Adhyay3.png',
   'Adhyay4.png',
+  'Adhyay5.png',
   'dog.jpg',
   'fox.jpg',
   'hen.jpg',
